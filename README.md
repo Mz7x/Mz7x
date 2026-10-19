@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Mz7x
-- 👀 I’m interested in Cybersecurity
-- 😄 Pronouns: he/him
+Hi, I’m @Mz7x
+Pronouns: he/him
 
 
 <!---
